@@ -1,0 +1,15 @@
+{
+  "name": "workflow",
+  "version": "0.0.1",
+  "description": "The work flow moving forward with Angular 2 for project JLaw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Travis Mikolay",
+  "license": "ISC"
+}

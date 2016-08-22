@@ -8,8 +8,8 @@ install node.js (https://nodejs.org/en/download/)
 install ruby (http://rubyinstaller.org/downloads/)
 install git (https://git-scm.com/download/win) at C:\git
 
-npm install -g gulp
-npm install -g browserify
-gem update
-gem install sass
-grm install compass
+1. npm install -g gulp
+2. npm install -g browserify
+3. gem update
+4. gem install sass
+5. grm install compass

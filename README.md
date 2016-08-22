@@ -2,7 +2,7 @@
 
 This is a recreation of Ship360 as an Angular 2 application
 
-Install Instructions:
+## Install Instructions:
 
 install node.js (https://nodejs.org/en/download/)
 install ruby (http://rubyinstaller.org/downloads/)

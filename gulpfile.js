@@ -1,7 +1,9 @@
+// Variables
 var gulp = require('gulp');
 var gutil = require('gulp-util');
 var gutil = require('gulp-coffee');
 
+// Sources
 var coffeeSources = ['components/coffee/tagline.coffee'];
 
 gulp.task('coffee', function() {
